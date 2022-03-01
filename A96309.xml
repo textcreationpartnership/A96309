@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter from Master Tristram Whitecombe, Major of Kingsale, in Ireland. Dated the 21. of April 1642. To his brother Benjamin Whitecombe, merchant in London. Alderman Plurie of Glocester mooved the house that this letter might bee printed, whereupon it was ordered the 26. of April, to be published. It is this day ordered by the House of Commons, that the ministers of each several parish give publike thanks to God for the good successe it hath pleased him to grant the English against the Rebels. Hen. Elsing, Cler. Com. D. Parl.</title>
+            <author>Whetcombe, Tristram.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96309</idno>
+            <idno type="STC">Wing W1636</idno>
+            <idno type="STC">Thomason E145_2</idno>
+            <idno type="STC">ESTC R19793</idno>
+            <idno type="EEBO-CITATION">99860742</idno>
+            <idno type="PROQUEST">99860742</idno>
+            <idno type="VID">112867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112867)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E145[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter from Master Tristram Whitecombe, Major of Kingsale, in Ireland. Dated the 21. of April 1642. To his brother Benjamin Whitecombe, merchant in London. Alderman Plurie of Glocester mooved the house that this letter might bee printed, whereupon it was ordered the 26. of April, to be published. It is this day ordered by the House of Commons, that the ministers of each several parish give publike thanks to God for the good successe it hath pleased him to grant the English against the Rebels. Hen. Elsing, Cler. Com. D. Parl.</title>
+                  <author>Whetcombe, Tristram.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns the proceedings of the rebels and English forces.</note>
+                  <note>The name, "Tristram Whitecombe" has been altered in ms. to read "Whittecombe" or "Whitiecombe".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112867:1"/>
+            <pb facs="tcp:112867:1" rendition="simple:additions"/>
+            <p>The Copy of a Letter FROM Maſter <hi>Triſtram Whitecombe,</hi> Major OF KINGSALE<g ref="char:punc">▪</g> IN IRELAND. Dated the 21. of <hi>April.</hi> 1642. To his Bro<g ref="char:EOLhyphen"/>ther <hi>Benjamin Whitecombe,</hi> Merchant in LONDON.</p>
+            <p>Alderman <hi>Plurie</hi> of <hi>Gloceſter</hi> moo<g ref="char:EOLhyphen"/>ved the Houſe that this Letter might bee Printed, whereupon it was Ordered the 26. of <hi>April,</hi> to be Publiſhed.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>It is this day Ordered by the Houſe of Commons, that the Miniſters of each ſeverall Pariſh give pub<g ref="char:EOLhyphen"/>like thanks to God for the good ſucceſſe it hath pleaſed him to grant the Engliſh againſt the Rebels.</p>
+                        <closer>
+                           <signed>Hen. Elſing, Cler. Com. <gap reason="illegible" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ioſeph Hunſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tt.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112867:2"/>
+            <pb facs="tcp:112867:2"/>
+            <opener>
+               <dateline>From <hi>Kingſale,</hi> 
+                  <date>
+                     <hi>April.</hi> 21. 1642.</date>
+               </dateline>
+               <lb/>
+               <salute>Brother <hi>Benjamin,</hi>
+               </salute>
+            </opener>
+            <p>I Have received divers Letters with ſeverall dates, wherein you taxe me for not writing to you; you have no cauſe ſo to do, in regard all paſſage by Land hath been ſtopped in theſe parts by the Rebels; many have I written, and doubtleſſe ſome of them which I wrote might miſcarry, For I aſſure you, I have written by every paſſage that went from hence, which were by Barques that carried paſſengers, and poor diſtreſſed people, which have been landed in <hi>Wales, Padſtoe Ilfordec<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</hi> and <hi>Barneſtable;</hi> but none of them at their return have brought any Letter from you, my Wife, or any friend there<g ref="char:EOLhyphen"/>abouts. In ſhipping away the poor people, I have taken a great deal of pains, and disbu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed much monies to pay for their paſſage, and there is ſtill as much need of doing the ſame, as before; for though the number of receivers be not altogether ſo many, yet the givers are much decreaſed, the inhabitants of this Town, I mean the Engliſh, were for the moſt part Tradeſmen, who of a long time have not gotten a penny, but gone waſting and conſuming the little which they had, and in a very little time more, we ſhall be all of one condi<g ref="char:EOLhyphen"/>tion, and ſuffer a like (but to the purpoſe.)</p>
+            <p>The Rebels have perſiſted in their cruell, and their tyrannicall ways, blocked us up round about, and have taken from us whatſoever we had lying without the Gate, what was not uſefull for them, they deſpightfully burnt, and whomſoever they took of our Nation, whether man, woman, or childe, have moſt cruelly, and inhumanely hanged and murthered; and for this three weeks ſpace we have not been able to ſond a Letter to the Lord Preſident, but by water, and that with a great deal of difficulty, but praiſed be God, about ſeven or eight dayes ſince, the Lord Preſident upon our bleeding importunity, appointed the Lord <hi>Baltingl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> his half Company, to come hither by Sea to help us, which conſiſted of 44. or 45. men, who arrived hear the 15. and brought with them eight Barrels of Powder, and a hundred Skears of Match, whereof ſix Barrels, and fifty Skears, were allotted for <hi>Bandonbridge,</hi> the other fifty Skeans, and two Barrels, do remain bear for the defence of the Town, which did ſavour well with us, becauſe is was the firſt that ever we received. The 16. the Troops of <hi>Bandonbridge</hi> came hither to renew, and carry away the
+<pb facs="tcp:112867:3"/>ſaid proviſions, and for their better Conv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, we ſent with them our Troop, which conſiſted of about 40, horſe, and 40. foot, which went with them a<g ref="char:EOLhyphen"/>bout four miles, and drew up all our forces we could make, to make good the retraite, if occaſion had been; our forces no ſooner parted from our friends, but thoſe of <hi>Bandon</hi> fell into an Ambuskadoe, which was laid purpoſely for them, conſiſting of about 300. men, who fired each upon other; ſuch was the great work of God Almighty, that ours conſiſting of about 80. horſe went through in deſpight of them, ſlew, or killed about 80. of them, with<g ref="char:EOLhyphen"/>out the loſſe of a man, they wanted four, which they imagined had been ſlain, but they remained here, playing the ill husbands, and went not with their friends; our people in their retreat, pillaged, and burned all the houſes they could eſpy; and being come altogether, we marched in a body, toward a mul<g ref="char:EOLhyphen"/>titude of them, which appeared upon a Mountain towards <hi>Belgolie,</hi> and lay in ambuſh on the further ſide of the Mountain; the Hils round about us were covered with them, we marched within Musket-ſhot of the main body of them, and made a ſtand, every man deſirous to march up to them, but night was at hand, and they had very much advantage of the ground; while we ſtood in ſight of them, they made many hideous ſhouts, calling us Engliſh Rebels, and traiterous villains, and threatned, that before Munday following, to burn, and ranſick our Town; but theſe were but flouriſhes, for that night, they retreating to their accuſtomed place <hi>Belgolie,</hi> where their Camp lay, many of their people run away, and it ſeems their Sabbath-Sacrifice wrought little effect, for the chief of them, which was <hi>Barrie Oage</hi> and <hi>Iere<g ref="char:EOLhyphen"/>my Longe,</hi> commanded the armed men, to march towards my Lord of <hi>Muskrie</hi> his campe, and the reſt they adviſed to ſhift for themſelves: we are informed that many of the armed men, did not march farre, but run every man his way; this I conceive, could not be in any policie, but meerly the Finger of God, that ſtrook their hearts with ſuch fear and t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrour, as they could not ſtay any longer.</p>
+            <p>On Monday morning we marched thither, where we found good ſtore of proviſions, ſome we brought away, the reſt we burned with the houſes, and all the Country thereabouts, ſo they cannot in haſte incamp themſelves there again with any commodity; ſome few ſtraglers we found there, which were kill<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, only two or three, which we brought home priſoners, which I be<g ref="char:EOLhyphen"/>leeve we ſhall hang this day; ſome things they have diſcovered, but to no great purpoſe, that it was meerly fear that drove them away, thinking thoſe <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erly windes which then blew, had brought n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great ſtore of men out of <hi>England.</hi>
+            </p>
+            <p>On Tueſday we went forth again, and took poſſeſſion of a Caſtle called
+<pb facs="tcp:112867:3"/>
+               <hi>Arcloyne,</hi> where we have left a guard of 12. Muskettiers, it lyeth a mil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the Town toward <hi>Bandonbridge,</hi> which was good ſervice, for by that means we have gained a Mill, which lyeth under command of the Caſtle, and hope we ſhall keep it, we had not the uſe of any Mill this three weeks, till now, which cauſed us (though we have ſtore of Corn) to want Bread.</p>
+            <p>We have certain advice, that about ſeven dayes ſince, the Lord Preſidents forces, about 600. foot, and 200, horſe, ſallied out of <hi>Cork,</hi> and let upon my Lord of <hi>Muskrie,</hi> and Lord Generall <hi>Barries</hi> great Camp, which conſiſted of about 8000. the Rebels ſtood a while, but at laſt as many as could did fly, only on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Company led by <hi>Mac Finins,</hi> Brother of <hi>Glonerogh,</hi> which was known by a nick name, Captain <hi>Sogone,</hi> who fought very valiantly, and received 7. or 8. ſhot into his body before he fell to the ground, his head and his hands, are brought in, and ſet upon the Gates of the Citie. There were ſlain of the Rebels no man knows how many, our men brought in about 600. Muskets, and Pikes, which lay amongſt the dead, they brought in aboundance of pro<g ref="char:EOLhyphen"/>viſions, my Lord of <hi>Muskries</hi> Plate, and Apparell, and many other good things, So I hope they will not be able to recover in haſt ſuch a head again; their Bogs and Woods muſt be their chiefeſt Forts. A paſſage, or two more, though I be ſomething tedious, I will relate; In my former Letters, I related the great loſſe ſuſtained, at a Farm which I had called <hi>Eneskonnis,</hi> it yeelded me 92<hi rend="sup">l</hi> 
+               <hi>per anuum,</hi> and the ſtock was my own, the Tennant was to make it good at each yeers end, only I had great ſtore of Corn which I could not get threſhed, to bring it away; for after this Rebellion began, none of the villains would la<g ref="char:EOLhyphen"/>bour; I had of Wheat the growth of 35. Acres, and as good, as any in the Country; beſides, Barley, and Oats, my Landlord <hi>Patrick Rach</hi> of <hi>Polelodge,</hi> taking it for his own, as he formerly had done with my Caſtle, and all things elſe, got two or three hundred with their Colours, to come thither to threſh, and carry it away, half for himſelf, and the other half for thoſe that did labour and ſtand by to guard him, but whiles they were about it, the Troops of <hi>Bandon,</hi> and a few Muskettiers fell in among them, killed neer 100. of them put the reſt to flight, and carried with them a great part of the Corn, which was made ready at their hands; and in this ſervice they loſt not a man, a while after ſome of the Rebels attempted to ſteal away ſome Cows neer <hi>Bandon,</hi> and took two or three ſmall Children that were keeping of the ſaid Cows, which they killed moſt barbarouſly, took them by the Legs, and Arms, and tore them a ſunder, one of the Children they found ſtabbed with a Sk an, in a douzen places, which did ſo incage them, that the next day they made another ſally upon the Rebels, and afterwards ſet upon a Caſtle called <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>doniell</hi> Caſtle, where ſometime the Iron work ſtood; it was ſo full of
+<pb facs="tcp:112867:4"/>men and proviſions, that they had made Linnies without ſide, againſt the walls of the Caſtle, which they filled with hutches of corn and houſhold-ſtuff: which they had taken from the Engliſh: Our men placed Musketiers round about them, in ſuch manner, that none of them within durſt appear upon the Battlement, nor peep out their noſe at the Loop-holes; ſent in five or ſix men that were skilfull in Myning under the ſaid Linnies, who laboured ſo luſtily, that in 3 or 4 hours they had made a hole thorow the wall; where they put in furze and ſtraw, which did ſet the lower rooms of the Caſtle on fire, ſo that the Rebells and the proviſions that were within, were burnt together; of what was in the Linnies they ſaved about 200 horſe load, and carried it by de<g ref="char:EOLhyphen"/>grees to the Town of <hi>Bandon:</hi> had we but 3 or 400 men more, we ſhould ſoon be able to clear the river of <hi>Bandon,</hi> upon which are three Caſtles very well fortified. <hi>Kilg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bane, Polelonge,</hi> and <hi>Corge<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> the Landlord of <hi>Polelonge Pat: Roch fitz Richard</hi> was a Parliament-man, and hath been a long time out in re<g ref="char:EOLhyphen"/>bellion, and his eldeſt ſonne is made a Captain amongſt them. Had I men in place, I would be content to maintain them with victualls and pay at my own charge, untill I had taken the ſaid Caſtle of <hi>Polelonge,</hi> ſo that I might enjoy the ſaid Caſtle and Land thereunto belonging, which is nine plow-lands and a half, and ſo of the reſt of the Caſtles. I pray, if you have any friends a<g ref="char:EOLhyphen"/>mongſt that Honorable Aſſembly, petition for ſome thing that might do us good: For my part, I have loſt all, and for merchandizing there will be no lit<g ref="char:EOLhyphen"/>tle hopes while I live in this kingdom; ſo that unleſſe it pleaſe God to move their hearts to ſupport me in ſome good way, I muſt be enforced to ſtere ſuch a courſe as after ſo much loſſe, will not well ſute with my age.</p>
+            <p>The Iriſh Inhabitants of this Town, <hi>Cork,</hi> and <hi>Yongball</hi> are no better than thoſe that are abroad in action; they did generally give intelligence of all that paſſed, and kept all things from us: I have diſcovered that many of the chiefeſt of the Town did go dayly to <hi>Belgolie</hi> Camp; and if friends to them, they muſt needs be enemies unto us: I have laid hold of ſome of them, I will adviſe my Lord Preſident of their proceedings.</p>
+            <p>Had not God Almighty dealt thus mercifully with us, that the hearts of thoſe miſcreants ſhould thus fail them, to fly when none purſues them, that in our encounters with them we loſe not one for 100; and ſeeing that all theſe la<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eaſterly windes have brought no ſupplie for us out of <hi>England,</hi> we ſhould have been in deſpair, and clean cut off; but it doth plainly teach us. That it is his mighty hand and ſtretched-out arm, and not an arm of fleſh that doth pro<g ref="char:EOLhyphen"/>tect us.</p>
+            <p>At the beginning of theſe troubles our watches were mixt Iriſh and Eng<g ref="char:EOLhyphen"/>liſh together, but ſince we have divided our ſelves, the Engliſh have all retired
+<pb facs="tcp:112867:4"/>to the water ſide, and the Iriſh keep the upper old Town; ſo that if they pro<g ref="char:EOLhyphen"/>feſſe any treachery, the Fort and our Ship <hi>Charles</hi> will preſently beat down their houſes about their ears, and do us no harm. My Lord Preſident and Co<g ref="char:EOLhyphen"/>lonell <hi>Baneſter</hi> did very well approve of their doings: now a little of buſineſſe I take notice what you write of the Ship <hi>Charles,</hi> I have thereupon thought it the beſt courſe to perſwade M<hi rend="sup">r</hi> 
+               <hi>J. Brooks</hi> to go over to inform that Honour<g ref="char:EOLhyphen"/>able Houſe what manner of Ship ſhe is, and what ſhe has and will ſtand us in to ſet her forth compleatly to Sea, ſhe will ſtand us upwards of 5000<hi rend="sup">l</hi>. I ſhall defire you to be an aſſiſtant to the bearer M<hi rend="sup">r</hi> 
+               <hi>J. Brooks,</hi> to petition to the Parliament to have ſatisfaction for the time we have ſpent in Harbour from the 12 day of <hi>January,</hi> for the defence of the Fort, Town, and Harbor, which, under God, was the chief preſervation of them all; for till of late, the Fort was very weak, and ill manned; and to gether to be employed in the Kings ſervice, and to allow us the rates which other Ships have, three pound 16 <hi>per</hi> Month each man: ſhe is already in place, and doubtleſſe may do as good ſer<g ref="char:EOLhyphen"/>vice as any Ship that is employed; ſhe will carry, and hath ports for 30 pieces of Ordnance; we have already 24 Barrells of Powder, five Cables, and double Sailes: but for this I referre you to the relation of the Bearer, praying you to aſſiſt him effectually; he is a very able deſerving man he carrieth a Letter from Captain <hi>Dewricke;</hi> a part owner to a kinſman of his, one M<hi rend="sup">r</hi> 
+               <hi>Norcket,</hi> a good friend to M<hi rend="sup">r</hi> 
+               <hi>Pime</hi> and M. <hi>Strowd;</hi> the ſaid M. <hi>Strowd</hi> is a very able deſerving Gentleman, I knew him when my Brother <hi>Nich. Glanfield</hi> lived in <hi>Paneſtocke,</hi> but I believe he doth not remember me. I pray God direct their heares; that we may have ſome ayd come over in time, to keep them from reaping what they have ſown, and before they have Powder and Arms from other parts, leſt they ſhould take head again: 10000 men in <hi>M<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> would, in my opini<g ref="char:EOLhyphen"/>on, in a very ſhort time do the buſineſſe, and fetch back our Cattle and Horſes which they have driven into <hi>Muſgro<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Woods. If I had but 200 men at pre<g ref="char:EOLhyphen"/>ſent, to what we have, I am very confident I ſhould do ſome ſervice to Gods glory in the defence of my Religion and Nation; and thus much believe of my conceited opinion, That if theſe Rebells be pardoned, this kingdom will never be ſecure; the abuſes are ſo unhumane, and ſo devilliſh, that if it become pardonable, none will care what offence be committeth: and the hatred be<g ref="char:EOLhyphen"/>tween the Nations is ſo great, that it is impoſſible that ever it can be forgot<g ref="char:EOLhyphen"/>ten. Let us have leave to fight it out to the laſt man; or if not, and that they muſt five here, ſet us have leave to depart, and ſeek ſome other place for our <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bitation.</p>
+            <p>I have between 6 and 7000<hi rend="sup">l</hi> in debts upon the Iriſh, which will be all loſt, and
+<pb facs="tcp:112867:5"/>never expect a penny of it; and I have not a peny left, onely what is in the new ſhip, and thoſe that are gone for <hi>Gennoa,</hi> and a little proviſion for my ſelf and Family for 5 or 6 Months if I can keep it, which I hope I ſhall, or I ſhall loſe my life with it. Pray be helpfull to my Brother <hi>Salie</hi> in what he ſhall deſire you, and think not upon any Trade for theſe parts for a while, for the Countrey affordeth no commodity, neither is there any money to buy any commodity that is brought to us, unleſſe you can contract with the Honorable Houſe of Parliament to furniſh theſe Ports with proviſions, making your condition at ſome reaſonable gaining rate, to be paid out of the Chamber of <hi>London.</hi> We have at preſent abundance of Corn, by reaſon of two or three prizes, French-men laden with Wheat and Rye brought in by our men of War. It is a gre<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> over-ſight, that in all this time we have not more Ships, one or two to ride conſtantly in each Port, to hinder the coming of proviſion and Ammunition to the Rebells, which cannot be ſo ſecurely done by keeping a few ſhips at Sea: the ſure way is, as I have ſaid, to have a ſhip or two to ride conſtantly in each Port, and half a dozen of nimble ſhips to keep at Sea upon the head Lands. I pray be vigilant, that we may have ſatisfaction for our loſ<g ref="char:EOLhyphen"/>ſes, and ſome reward for our honeſt endeavours. I have furniſhed his Maje<g ref="char:EOLhyphen"/>ſties Fort of this place, <hi>Cork,</hi> Kings ſhip, and otherwiſe in his Maieſties ſervice, to the value of 400<hi rend="sup">l</hi> in Deal boords, Iron, Pitch, Tarre, Train, Ammunitions, and Monies, and know not yet when, or by whom I ſhall be ſatisfied for the ſame; and whatſoever I have yet remaining, I will willingly part with in the ſaid ſer<g ref="char:EOLhyphen"/>vice, and am ready to ſeal this my intent to the laſt drop of my blood. There have been a great many of our Nation who are very able both in perſon and eſtate to ſerve in this cauſe, that have ſtollen away, and carried their eſtates, mo<g ref="char:EOLhyphen"/>nies, and proviſion with them; it were good, in my opinion, that an inquiry were made after them in <hi>England,</hi> and compelled not onely to return in their own perſons, but to being over others upon their own charge; it would be but an eaſie puniſhment for their cowardly baſeneſſe. I ſhall deſire you to be mind<g ref="char:EOLhyphen"/>full of us in your prayers to God Almighty. In whom I reſt</p>
+            <closer>
+               <signed>Your loving Brother, TRISTRAM WHITCOMBE.</signed>
+
+            </closer>
+            <postscript>
+               <p>Remember me to all my friends, and excuſe my not writing; diſtractions would not permit me.</p>
+            </postscript>
+            <postscript>
+               <p>I have a conceit, and am almoſt confident, That a great reaſon of thoſe rebells run<g ref="char:EOLhyphen"/>ning into corners is, That they have ſome intelligence that their good friends and great pillars, of whom they boaſted, either have, or muſt leave them to themſelves.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112867:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
